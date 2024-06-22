@@ -1,4 +1,4 @@
-# README Generator
+# Weather Dashboard
 
   ![GitHub License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -13,13 +13,14 @@
   
 
    ## Description
-   A command-line application designed to quickly reate a professional README for a new project.
+   The goal of this project was to create a dashboard application that displays the weather outlook for multiple cities, utilizing OpenWeatherMapAPI, for the purposes of travel and trip planning.
 
    ## Installation
-   Clone this repository, through HTTPS or downloading the Zip. Install Node.js v20.15.0. Initialilze npm through the terminal by running the command 'npm init -y'. Install the inquirer package version 8.2.4 through the terminal by running the command 'npm i inquirer@8.2.4'. 
+   - Clone this repository, through HTTPS or downloading the Zip. 
+   - Alternatively, visit deployed site at https://deadseatupperware.github.io/Homework6-Weather-Dashboard/
 
    ## Usage
-   Open the application using Visual Studio Code, or similar. Run the application with Node.js by implementing the command 'node index.js'.
+   In the search bar on the left side of the page, enter the name of the city you wish to see the forecast for. Upon clicking the search button, the current weather, as well as a 5 day forecast for the requested city will be displayed. Previously searched cities will be displayed on the left side of the page, and may be clicked to re-display that city's forecast. Search history may be cleared upon clicking the Clear History button.
 
    ## Contributing
    N/A

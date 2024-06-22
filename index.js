@@ -39,7 +39,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: "Which license does this project use?",
-        choices: ['MIT', 'GPL-2-0', 'GPL-3-0', 'LGPL-2-1', 'LGPL-3-0', 'Apache-2-0', 'MPL-2-0', 'BSD-2-Clause', 'BSD-3-Clause', 'None']
+        choices: ['MIT', 'GPL--2--0', 'GPL--3--0', 'LGPL--2--1', 'LGPL--3--0', 'Apache--2--0', 'MPL--2--0', 'BSD--2--Clause', 'BSD--3--Clause', 'None']
     },
     {
         type: 'input',

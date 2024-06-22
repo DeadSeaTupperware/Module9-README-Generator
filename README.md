@@ -24,11 +24,8 @@
    - Open the application using Visual Studio Code, or similar. 
    - Run the application with Node.js by implementing the command 'node index.js'.
 
-   ## Contributing
-   N/A
-
-   ## Tests
-   N/A
+   ## Video Tutorial
+   <iframe src="https://drive.google.com/file/d/1AW5pw4CKOA9lwfhFFjHhHeVgATcFE0Cg/preview" width="640" height="480"></iframe>
 
    ## License
    This project is covered under the following license:
