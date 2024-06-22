@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== "None") {
-    return `[${license}](https://choosealicense.com/licenses/${license})`
+    return `[${license}](https://opensource.org/license/${license})`
   } else {
     return "";
   }
@@ -24,6 +24,8 @@ function renderLicenseSection(license) {
   if (license !== "None") {
     return `This project is covered under the following license:
     ${renderLicenseLink(license)}
+
+    
     `;
   }
 }
