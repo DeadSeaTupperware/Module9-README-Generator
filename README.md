@@ -25,7 +25,7 @@
    - Run the application with Node.js by implementing the command 'node index.js'.
 
    ## Video Tutorial
-   <iframe src="https://drive.google.com/file/d/1AW5pw4CKOA9lwfhFFjHhHeVgATcFE0Cg/preview" width="640" height="480"></iframe>
+   [Watch a tutorial on proper usage of this application.](https://drive.google.com/file/d/1AW5pw4CKOA9lwfhFFjHhHeVgATcFE0Cg/view?usp=sharing)
 
    ## License
    This project is covered under the following license:
