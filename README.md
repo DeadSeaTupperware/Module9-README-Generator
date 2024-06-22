@@ -6,8 +6,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Video Tutorial](#video)
   * [License](#license)
   * [Questions](#questions)
   
@@ -24,15 +23,14 @@
    - Open the application using Visual Studio Code, or similar. 
    - Run the application with Node.js by implementing the command 'node index.js'.
 
-   ## Video Tutorial
+   ## Video
    [Watch a tutorial on proper usage of this application.](https://drive.google.com/file/d/1AW5pw4CKOA9lwfhFFjHhHeVgATcFE0Cg/view?usp=sharing)
 
    ## License
    This project is covered under the following license:
     [MIT](https://opensource.org/license/MIT)
 
-    
-    
+   ## 
 
    ## Questions
    For questions and feedback, you may contact me at [dean.bloomingdale1@gmail.com](mailto:dean.bloomingdale1@gmail.com)
